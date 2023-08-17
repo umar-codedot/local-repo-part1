@@ -1,2 +1,2 @@
 # Demo
- upload the locak repo on GitHub account
+ upload the locak repo on GitHub accounts
